@@ -1,0 +1,20 @@
+<players bigportraitroot="gfx/ui/stage/" nameimageroot="gfx/ui/boss/" portraitroot="gfx/ui/boss/" root="gfx/characters/costumes/">
+	<player bigportrait="BigYulyaPortrait.png" bombs="0" keys="2" coins="10" armor="4" name="Yulya"
+	nameimage="Yulya_name.png" portrait="YulyaPortrait.png" skin="Yulya.png" skinColor="-1" />
+	<player bigportrait="BigShurikPortrait.png" bombs="3" keys="2" coins="1" hp="2" items="245" name="Shurik"
+	nameimage="Shurik_name.png" portrait="ShurikPortrait.png" skin="Shurik.png" skinColor="-1" />
+	<player bigportrait="BigSlavyaPortrait.png" bombs="2" keys="1" coins="0" hp="2" armor="2" name="Slavya"
+	nameimage="Slavya_name.png" portrait="SlavyaPortrait.png" skin="Slavya.png" skinColor="-1" />
+	<player bigportrait="BigElektronikPortrait.png" bombs="2" keys="1" coins="3" hp="4" name="Elektronik"
+	nameimage="Elektronik_name.png" portrait="ElektronikPortrait.png" skin="Elektronik.png" skinColor="-1" />
+	<player bigportrait="BigMikuPortrait.png" bombs="0" keys="3" coins="4" hp="2" armor="4" name="Miku"
+	nameimage="Miku_name.png" portrait="MikuPortrait.png" skin="Miku.png" skinColor="-1" />
+	<player bigportrait="BigSemyonPortrait.png" bombs="2" keys="1" coins="0" hp="6" name="Semyon"
+	nameimage="Semyon_name.png" portrait="SemyonPortrait.png" skin="Semyon.png" skinColor="-1" />
+	<player bigportrait="BigUlyanaPortrait.png" bombs="2" keys="2" coins="5" hp="6" name="Ulyana"
+	nameimage="Ulyana_name.png" portrait="UlyanaPortrait.png" skin="Ulyana.png" skinColor="-1" />
+	<player bigportrait="BigLenaPortrait.png" bombs="0" keys="0" coins="8" hp="6" name="Lena"
+	nameimage="Lena_name.png" portrait="LenaPortrait.png" skin="Lena.png" skinColor="-1" />
+	<player bigportrait="BigAlisaPortrait.png" bombs="5" keys="1" coins="0" hp="4" black="2" name="Alisa"
+	nameimage="Alisa_name.png" portrait="AlisaPortrait.png" skin="Alisa.png" skinColor="-1" />
+</players>

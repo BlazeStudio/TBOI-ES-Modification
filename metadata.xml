@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Everlasting Summer</name>
+    <directory>everlasting summer</directory>
+    <id>1984690013</id>
+    <description>[img]https://i.imgur.com/JqtpX1i.png[/img]
+	
+	[h1]ENG[/h1]
+	
+	[h1]Everlasting Summer: The Binding of Isaac Mod![/h1]
+	
+	[i][b]Mod created based on the game [url=https://store.steampowered.com/app/331470/Everlasting_Summer/]Everlasting Summer[/url][/b][/i]
+	
+	[h2]This mod adds:[/h2]
+[list]
+[*] 9 Characters
+[*] 20+ Items
+[*] Music and Sound Effects
+[*] 4 Cards
+[*] Transformations
+[*] Custom Loading Screens
+[*] External Item Descriptions Compatibility
+[/list]
+	
+[h2]Starting Items[/h2]
+
+[table]
+    [tr]
+        [th]Name[/th]
+        [th]Items[/th]
+    [/tr]
+    [tr]
+        [td][b]Alisa[/b][/td]
+        [td]Electric Guitar
+		Everlasting Vodka  [i]+1 Card[/i][/td]
+    [/tr]
+    [tr]
+        [td][b]Lena[/b][/td]
+        [td]Gone With The Wind
+		Knife [i]+1 Card[/i][/td]
+    [/tr]
+    [tr]
+        [td][b]Ulyana[/b][/td]
+        [td]Stolen Candy [i]+1 Card[/i][/td]
+    [/tr]
+	[tr]
+        [td][b]Semyon[/b][/td]
+        [td]410 Bus[/td]
+    [/tr]
+	[tr]
+        [td][b]Miku[/b][/td]
+        [td]Classic Guitar
+		Sintezator  [/td]
+    [/tr]
+	[tr]
+        [td][b]Elektronik[/b][/td]
+        [td]Robot Head [i](Upgrade System)[/i][/td]
+    [/tr]
+	[tr]
+        [td][b]Slavya[/b][/td]
+        [td]Dinning Room Key[/td]
+    [/tr]
+	[tr]
+        [td][b]Shurik[/b][/td]
+        [td]Fittings
+		Psycho Mode [/td]
+    [/tr]
+	[tr]
+        [td][b]Yulya[/b][/td]
+        [td]Sugar [i]+1 Card[/i][/td]
+    [/tr]
+[/table]	
+	
+	[h2]Items[/h2]
+[list]
+[*]	[b]Electric Guitar[/b] = + 1.5 Damage
+[*]	[b]Alisa Bomb[/b] = Gives 10 Bombs
+[*]	[b]Everlasting Vodka[/b] = Adds Confusion to enemies for 5 seconds
+[*] [b]Robot Head[/b] = [u]LVL1[/u] - Shoots 4 lasers. 
+[u]LVL2(Chip)[/u] - Shoots 8 lasers. 
+[u]LVL3(Upgraded Chip)[/u] - Shoots 16 lasers
+[*] [b]Chip[/b] = + 0.10 to TearFallingSpeed. Upgrade Robot Head to LVL2
+[*]	[b]Upgraded Chip[/b] = + 1 to Luck. Upgrade Robot Head to LVL3
+[*]	[b]Knife[/b] = + 2.5 Damage
+[*]	[b]Dining Room Key[/b] = Add 99 keys
+[*]	[b]Glass Shard[/b] = + 0.75 Damage
+[*]	[b]Stolen Candy[/b] = Gives 1 Soul Heart
+[*]	[b]Sugar[/b] = Gives 1 Golden Heart every use
+[*]	[b]Gone With he Wind[/b] = Gives 1 coin every use. 20% chance to get 1 key
+[*]	[b]Classic Guitar[/b] = + 0.25 to Shotspeed
+[*]	[b]Sintezator[/b] = + 5 to Luck
+[*]	[b]Shuttlecock[/b] = Gives 2 Soul Hearts
+[*]	[b]Flare Gun[/b] = + 0.25 to Movespeed. Lighting Tears
+[*]	[b]Psycho Mode[/b] = Adds Explosive Tearflags. Removed after use
+[*]	[b]Alisa's Mangekyou Sharingan[/b] = Adds Amaterasu Flame to enemies for 5 seconds
+[*]	[b]Lena Rinnegan[/b] = Spawn Portal of Friends
+[*]	[b]410 Bus[/b] = Drops Bus to random enemy
+[*]	[b]Genda[/b] = Drops Genda to random enemy
+[*]	[b]Little Alisa[/b] = Spawn Little Alisa. Damage random enemy
+[*]	[b]Little Lena[/b] = Spawn Little Lena. Damage random enemy
+[*]	[b]Fittings[/b] = Character will give additional damage in melee every 4 tears
+[/list]
+
+[h2]Cards[/h2]
+[list]
+[*]	[b]Alisa Card[/b] = Adds Freeze everyone in the room
+[*]	[b]Lena Card[/b] = Adds MidasFreeze everyone in the room
+[*]	[b]Ulyana Card[/b] = Spawn 4 Red Hearts
+[*] [b]Yulya Card[/b] = Spawn 10 Flies
+[/list]
+	
+	[h2]Transformations[/h2]
+
+[table]
+    [tr]
+        [th]Name[/th]
+        [th]Items[/th]
+		[th]Effects[/th]
+    [/tr]
+    [tr]
+        [td][b]Miku[/b]
+		[/td]
+        [td]Sintezator
+		Classic Guitar
+		Electric Guitar[/td]
+[td]Changes Tears to [u]Light From Heaven[/u]
+Adds New Costume
+Gives 3 Golden Hearts [/td]
+    [/tr]
+    [tr]
+        [td][b]Lena[/b]
+		[/td]
+        [td]Gone With The Wind
+		Knife
+		Glass Shard
+		Shuttlecock[/td]
+		[td]Changes Tears to [u]Wiggle Tears[/u]
+Adds New Costume
+Gives 5 Keys
+Spawn 10 Flies[/td]
+    [/tr]
+    [tr]
+        [td][b]Semyon[/b]
+		[/td]
+        [td]410 Bus
+		Knife
+		Flare Gun[/td]
+		[td]Changes Tears to [u]Split Tears[/u]
+Adds New Costume
+Gives 20 Coins
+Gives 2 Black Hearts[/td]
+    [/tr]
+	[tr]
+        [td][b]Alisa[/b]
+		[/td]
+        [td]Classic Guitar
+		Sintezator
+		Everlasting Vodka
+		Electric Guitar[/td]
+		[td]Changes Tears to [u]Pulse Tears[/u]
+Adds New Costume
+Gives 25 Bombs[/td]
+    [/tr]
+	
+[h2]Credits[/h2]
+
+[b][i][u]MOD CREATOR[/u][/i][/b] - [url=https://steamcommunity.com/id/vsmcgod/]FreshPrince[/url]	
+
+[b][i][u]TESTER[/u][/i][/b] - [url=https://steamcommunity.com/id/mcbg4/]Froge[/url]
+
+[b][i][u]GAME[/u][/i][/b] - [url=https://store.steampowered.com/app/331470/Everlasting_Summer/]Everlasting Summer[/url]
+	
+
+[h1]For Russian Only[/h1]
+
+[spoiler]Если вы хотите вкусить плод безумия,то посмотрите оформление плана мода. В него было вложено блольше времени,чем во весь мод.
+[url=https://docs.google.com/presentation/d/1u-Sbp-vVYjI8BrSEVkXnKKFTkrmrrdoW5HZYknSuUdc/edit?usp=sharing]_ПРЕЗЕНТАЦИЯ_[/url][/spoiler]
+	
+	</description>
+    <version>1.7</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Active Items"/>
+    <tag id="Cards"/>
+    <tag id="Pickups"/>
+    <tag id="Player Characters"/>
+    <tag id="Familiars"/>
+    <tag id="Tweaks"/>
+    <tag id="Graphics"/>
+    <tag id="Sound Effects"/>
+    <tag id="Music"/>
+</metadata>

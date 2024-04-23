@@ -1,0 +1,45 @@
+<sounds root="sfx/">
+	<sound name="Ding">
+	<sample weight="1" path="ding.wav"/>
+	</sound>
+	
+	<sound name="Sharingan">
+	<sample weight="1" path="sharingan.wav"/>
+	</sound>
+	
+	<sound name="Rinnegan">
+	<sample weight="1" path="rinnegan.wav"/>
+	</sound>
+	
+	<sound name="Car">
+	<sample weight="1" path="car.wav"/>
+	</sound>
+	
+	<sound name="Beep">
+	<sample weight="1" path="beep.wav"/>
+	</sound>
+	
+	<sound name="Set">
+	<sample weight="1" path="transformation.wav"/>
+	</sound>
+	
+	<sound name="Press">
+	<sample weight="1" path="press.wav"/>
+	</sound>
+	
+	<sound name="Drop">
+	<sample weight="1" path="drop.wav"/>
+	</sound>
+	
+	<sound name="Fall">
+	<sample weight="1" path="fall.wav"/>
+	</sound>
+	
+	<sound name="Upgrade">
+	<sample weight="1" path="upgrade.wav"/>
+	</sound>
+	
+	<sound name="Explosion">
+	<sample weight="1" path="explosion.wav"/>
+	</sound>
+</sounds>

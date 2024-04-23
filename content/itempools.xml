@@ -1,0 +1,84 @@
+<ItemPools>
+	<Pool Name="treasure">
+		<Item Name="Electric Guitar" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Knife" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Glass Shard" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Stolen Candy" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Sintezator" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Classic Guitar" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Shuttlecock" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Flare Gun" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Dining Room Key" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Upgraded Chip" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Little Alisa" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Little Lena" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Fittings" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Alisa's Bomb" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Everlasting Vodka" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Sugar" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Robot Head" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Alisa's Mangekyou Sharingan" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Gone With The Wind" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Lena Rinnegan" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="410 Bus" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Genda" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+	</Pool>
+	
+	<Pool Name="shop">
+		<Item Name="Electric Guitar" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Classic Guitar" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Sintezator" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Chip" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Alisa's Bomb" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Everlasting Vodka" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Stolen Candy" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+	</Pool>
+		
+	<Pool Name="devil">
+		<Item Name="Alisa's Mangekyou Sharingan" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<Item Name="Lena Rinnegan" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<Item Name="Psycho Mode" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<Item Name="410 Bus" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+	
+	<Pool Name="library">
+		<Item Name="Gone With The Wind" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+	
+	<Pool Name="curse">
+		<Item Name="Glass Shard" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Knife" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Psycho Mode" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="410 Bus" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Upgraded Chip" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+	</Pool>
+	
+	<Pool Name="angel">
+		<Item Name="Little Alisa" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Little Lena" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Genda" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Alisa's Mangekyou Sharingan" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Lena Rinnegan" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+	</Pool>
+
+	<Pool Name="bossrush">
+        <Item Name="Alisa's Mangekyou Sharingan" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item Name="Lena Rinnegan" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+    </Pool>
+	
+	<Pool Name="bombBum">
+        <Item Name="Alisa's Bomb" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+    </Pool>
+	
+	<Pool Name="greedTreasure">
+		<Item Name="Alisa's Mangekyou Sharingan" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<Item Name="Lena Rinnegan" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<Item Name="410 Bus" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<Item Name="Robot Head" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+	
+	<Pool Name="greedLibrary">
+		<Item Name="Gone With The Wind" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+	
+</ItemPools>

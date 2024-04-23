@@ -1,0 +1,26 @@
+<items gfxroot="gfx/items/" version="1">
+	<passive cache ="shotspeed range damage flying tearflag" description="Only for Soviet Rock" gfx="electricguitar.png" name="Electric Guitar" />
+	<passive cache ="damage" description="Vdol',a ne poporek" gfx="knife.png" name="Knife" />
+	<passive cache ="damage" description="Just get your damage" gfx="glassshard.png" name="Glass Shard" />
+	<passive cache ="damage" description="How does it taste?" gfx="stolencandy.png" name="Stolen Candy" />
+	<passive cache ="damage luck tearflag" description="Play with only two hands" gfx="sintezator.png" name="Sintezator" />
+	<passive cache ="shotspeed" description="Old but gold" gfx="classic.png" name="Classic Guitar" />
+	<passive cache ="damage shotspeed tearflag" description="Just hit it!!!" gfx="shuttlecock.png" name="Shuttlecock" />
+	<passive cache ="speed damage tearflag" description="Wonderful light source" gfx="flaregun.png" name="Flare Gun" />
+	<passive cache ="speed" description="Something is wrong with this key" gfx="keys.png" name="Dining Room Key" />
+	<passive cache ="range" description="It will help your robot" gfx="chip.png" name="Chip" />
+	<passive cache ="firedelay" description="Get in the Robot, Elektronik!" gfx="lvl2chip.png" name="Upgraded Chip" />
+	<passive cache ="all" description="Don't cut yourself,Pioneer" gfx="fittings.png" name="Fittings" />
+	<passive cache ="damage" description="From Alisa, With Love:)" gfx="dvachbomb.png" name="Alisa's Bomb" />
+	<active description ="Not a rotten water now" gfx="vodka.png" name="Everlasting Vodka" maxcharges="3" />
+	<active description ="You can take a piece" gfx="sugar.png" name="Sugar" maxcharges="5" />
+	<active description ="Kids, don't go to the Old Camp" gfx="robot.png" name="Robot Head" maxcharges="3" />
+	<active description ="New generation" gfx="robotlvl2.png" name="New Robot Head" maxcharges="3" />
+	<active description ="Pinnacle of evolution" gfx="robotlvl3.png" name="Ultimate Robot Head" maxcharges="3" />
+	<active description ="Amaterasu???" gfx="mangekyousharingan.png" name="Alisa's Mangekyou Sharingan" maxcharges="4" />
+	<active description ="Once there was a stash here" gfx="gonewiththewind.png" name="Gone With The Wind" maxcharges="2" />
+	<active description ="Is that a Rinnegan Portal?" gfx="rinnegan.png" name="Lena Rinnegan" maxcharges="5" />
+	<active description ="Be careful with the bombs" gfx="evilmode.png" name="Psycho Mode" maxcharges="4" />
+	<active description ="No Way" gfx="410.png" name="410 Bus" maxcharges="5" />
+	<active description ="Legendary *Nerv* Revolutionary" gfx="genda.png" name="Genda" maxcharges="5" />
+</items>

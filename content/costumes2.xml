@@ -1,0 +1,19 @@
+<costumes anm2root="gfx/characters/">
+	<costume anm2path="AliceHair.anm2" priority="99" type="none" />	
+	<costume anm2path="AlisaHappy.anm2" priority="99" type="none" />
+	<costume anm2path="AlisaSharingan.anm2" priority="99" type="none" />
+	<costume anm2path="ElektronikHair.anm2" priority="99" type="none" />
+	<costume anm2path="LenaEvil.anm2" priority="99" type="none" />
+	<costume anm2path="LenaHair.anm2" priority="99" type="none" />
+	<costume anm2path="LenaRinnegan.anm2" priority="99" type="none" />
+	<costume anm2path="MikuHair.anm2" priority="99" type="none" />
+	<costume anm2path="MikuULF.anm2" priority="99" type="none" />
+	<costume anm2path="SemyonEvil.anm2" priority="99" type="none" />
+	<costume anm2path="SemyonHair.anm2" priority="99" type="none" />
+	<costume anm2path="ShurikEvil.anm2" priority="99" type="none" />
+	<costume anm2path="ShurikHair.anm2" priority="99" type="none" />
+	<costume anm2path="SlavyaHair.anm2" priority="99" type="none" />
+	<costume anm2path="UlyanaHair.anm2" priority="99" type="none" />
+	<costume anm2path="YulyaHair.anm2" priority="99" type="none" />
+	<costume anm2path="sharingan.anm2" priority="99" type="none" />
+</costumes>
